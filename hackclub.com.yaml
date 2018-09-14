@@ -115,6 +115,9 @@ hhs:
 - ttl: 1
   type: CNAME
   value: 1.1.1.1.
+- ttl: 1
+  type: A
+  value: 1.2.3.4.
 k1._domainkey:
   ttl: 1
   type: CNAME
