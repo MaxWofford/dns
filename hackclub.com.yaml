@@ -192,5 +192,5 @@ mason:
   value: 1.2.3.4.
 cake:
 - ttl: 1
-  type: AAAA
+  type: TXT
   value: 1.2.3.4.
