@@ -189,3 +189,13 @@ testing.mail:
 - ttl: 1
   type: TXT
   value: v=spf1 include:mailgun.org ~all
+hhm:
+- ttl: 1
+  type: CNAME
+  value: 1.1.1.1.
+- ttl: 1
+  type: A
+  value: 1.2.3.4.
+- ttl: 1
+  type: TXT
+  value: Hello there.
