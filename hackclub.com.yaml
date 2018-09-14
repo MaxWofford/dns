@@ -190,7 +190,7 @@ mason:
 - ttl: 1
   type: A
   value: 1.2.3.4.
-cake:
+pie:
 - ttl: 1
   type: TXT
   value: 1.2.3.4.
