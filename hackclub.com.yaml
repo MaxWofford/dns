@@ -190,7 +190,7 @@ mason:
 - ttl: 1
   type: A
   value: 1.2.3.4.
-test:
+test_again:
 - ttl: 1
   type: TXT
   value: 1.2.3.4.
