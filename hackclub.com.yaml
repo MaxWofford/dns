@@ -181,7 +181,7 @@ testing.mail:
   type: TXT
   value: v=spf1 include:mailgun.org ~all
 hhm: 
-mason:
+asdf:
 - ttl: 1
   type: CNAME
   value: 1.1.1.1.
