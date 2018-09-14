@@ -190,7 +190,7 @@ mason:
 - ttl: 1
   type: A
   value: 1.2.3.4.
-max:
+cake:
 - ttl: 1
   type: A
   value: 1.2.3.4.
