@@ -112,7 +112,10 @@ hackathons:
   type: CNAME
   value: hackathons.netlify.com.
 hhs:
-  ttl: 1
+- ttl: 1
+  type: CNAME
+  value: 1.1.1.1.
+- ttl: 1
   type: A
   value: 2.2.2.2.
 k1._domainkey:
