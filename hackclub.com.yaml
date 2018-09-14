@@ -192,5 +192,5 @@ mason:
   value: 1.2.3.4.
 new_poi:
 - ttl: 1
-  type: TXT
+  type: A
   value: a_record.
