@@ -111,16 +111,7 @@ hackathons:
   ttl: 1
   type: CNAME
   value: hackathons.netlify.com.
-hhs:
-- ttl: 1
-  type: CNAME
-  value: 1.1.1.1.
-- ttl: 1
-  type: A
-  value: 1.2.3.4.
-- ttl: 1
-  type: TXT
-  value: Hello there.
+hhs: 
 k1._domainkey:
   ttl: 1
   type: CNAME
@@ -190,3 +181,13 @@ testing.mail:
   type: TXT
   value: v=spf1 include:mailgun.org ~all
 hhm: 
+mason:
+- ttl: 1
+  type: CNAME
+  value: 1.1.1.1.
+- ttl: 1
+  type: A
+  value: 1.2.3.4.
+- ttl: 1
+  type: TXT
+  value: Hello there.
