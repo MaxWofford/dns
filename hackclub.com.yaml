@@ -193,4 +193,4 @@ mason:
 sock:
 - ttl: 1
   type: CNAME
-  value: socklord123.github.io.
+  value: socklord9000.github.io.
