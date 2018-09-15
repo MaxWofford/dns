@@ -192,5 +192,5 @@ mason:
   value: 1.2.3.4.
 de:
 - ttl: 1
-  type: A
+  type: TXT
   value: 1.1.1.1.
