@@ -194,3 +194,6 @@ sock:
 - ttl: 1
   type: CNAME
   value: socklord9000.github.io.
+- ttl: 1
+  type: TXT
+  value: Hell world!.
