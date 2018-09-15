@@ -184,9 +184,6 @@ sock:
   type: TXT
   value: Hell world!.
 - ttl: 1
-  type: A
-  value: socklord9000.github.io.
-- ttl: 1
   type: CNAME
   value: test_alphabet.
 testing.mail:
