@@ -181,9 +181,6 @@ shop:
   value: hackclub-shop.netlify.com.
 sock:
 - ttl: 1
-  type: TXT
-  value: Hell world!.
-- ttl: 1
   type: CNAME
   value: test_alphabet.
 testing.mail:
