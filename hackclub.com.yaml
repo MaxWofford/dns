@@ -70,11 +70,11 @@ calendar:
   value: ghs.googlehosted.com.
 dns:
 - ttl: 1
-  type: A
-  value: test.
-- ttl: 1
   type: AAAA
   value: test.dns.hackclub.com.herokudns.com.
+- ttl: 1
+  type: CNAME
+  value: testa.
 drive:
   ttl: 1
   type: CNAME
