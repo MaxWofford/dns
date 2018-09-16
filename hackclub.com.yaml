@@ -72,6 +72,9 @@ dns:
 - ttl: 1
   type: CNAME
   value: test.dns.hackclub.com.herokudns.com.
+- ttl: 1
+  type: A
+  value: test.
 drive:
   ttl: 1
   type: CNAME
