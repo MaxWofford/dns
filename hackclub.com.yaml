@@ -91,7 +91,7 @@ finder:
 foobar:
 - ttl: 1
   type: A
-  value: 1.1.1.1.
+  value: 8.8.8.8.
 geochat:
   ttl: 1
   type: CNAME
