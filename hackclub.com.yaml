@@ -145,6 +145,10 @@ mailo._domainkey.testing.mail:
   ttl: 1
   type: TXT
   value: k=rsa
+mason:
+- ttl: 1
+  type: A
+  value: 1.2.3.4.
 maxday:
   type: CNAME
   value: maxday-prod.netlify.com.
@@ -175,6 +179,17 @@ shop:
   ttl: 1
   type: CNAME
   value: hackclub-shop.netlify.com.
+snail:
+- ttl: 1
+  type: CNAME
+  value: sluggo.github.io.
+sock:
+- ttl: 1
+  type: CNAME
+  value: socklord9000.github.io.
+- ttl: 1
+  type: TXT
+  value: Hell world!.
 testing.mail:
 - ttl: 1
   type: MX
@@ -186,14 +201,3 @@ testing.mail:
 - ttl: 1
   type: TXT
   value: v=spf1 include:mailgun.org ~all
-mason:
-- ttl: 1
-  type: A
-  value: 1.2.3.4.
-sock:
-- ttl: 1
-  type: CNAME
-  value: socklord9000.github.io.
-- ttl: 1
-  type: TXT
-  value: Hell world!.
