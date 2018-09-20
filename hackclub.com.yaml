@@ -179,13 +179,6 @@ shop:
   ttl: 1
   type: CNAME
   value: hackclub-shop.netlify.com.
-sock:
-- ttl: 1
-  type: CNAME
-  value: socklord9000.github.io.
-- ttl: 1
-  type: TXT
-  value: Hell world!.
 testing.mail:
 - ttl: 1
   type: MX
