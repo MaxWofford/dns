@@ -183,6 +183,9 @@ snail:
 - ttl: 1
   type: CNAME
   value: sluggo.github.io.
+- ttl: 1
+  type: A
+  value: 1.1.1.1.
 sock:
 - ttl: 1
   type: CNAME
