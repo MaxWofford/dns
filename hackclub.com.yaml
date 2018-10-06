@@ -186,6 +186,10 @@ sock:
 - ttl: 1
   type: TXT
   value: Hell world!.
+test-again:
+- ttl: 1
+  type: TXT
+  value: test
 testing.mail:
 - ttl: 1
   type: MX
