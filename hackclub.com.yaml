@@ -189,7 +189,7 @@ sock:
 test-again:
 - ttl: 1
   type: TXT
-  value: howdy, I'm the sheriff of DNS
+  value: Let's try this again, shall we?
 testing.mail:
 - ttl: 1
   type: MX
