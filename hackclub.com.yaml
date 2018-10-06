@@ -188,7 +188,7 @@ sock:
   value: Hell world!.
 test-again:
 - ttl: 1
-  type: A
+  type: TXT
   value: 192.168.1.1
 testing.mail:
 - ttl: 1
