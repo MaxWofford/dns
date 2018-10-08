@@ -186,6 +186,10 @@ sock:
 - ttl: 1
   type: TXT
   value: Hell world!.
+subdomain:
+- ttl: 1
+  type: TXT
+  value: 9am to 6pm
 testing.mail:
 - ttl: 1
   type: MX
