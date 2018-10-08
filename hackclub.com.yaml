@@ -186,6 +186,10 @@ sock:
 - ttl: 1
   type: TXT
   value: Hell world!.
+test-again:
+- ttl: 1
+  type: TXT
+  value: 2 hr. Max. Parking Premium Rate
 testing.mail:
 - ttl: 1
   type: MX
