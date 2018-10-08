@@ -118,6 +118,10 @@ hhs:
 - ttl: 1
   type: A
   value: 1.2.3.4.
+how:
+- ttl: 1
+  type: TXT
+  value: how does it do that?
 k1._domainkey:
   ttl: 1
   type: CNAME
