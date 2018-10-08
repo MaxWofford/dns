@@ -197,3 +197,7 @@ testing.mail:
 - ttl: 1
   type: TXT
   value: v=spf1 include:mailgun.org ~all
+what:
+- ttl: 1
+  type: TXT
+  value: why do I think I know what I know
